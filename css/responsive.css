@@ -1,0 +1,83 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+    .navbar .navbar-nav {
+        column-gap: 67px;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .navbar .custombtn {
+        padding: 10px 42px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .icons {
+        text-align: end;
+    }
+
+    /* =============================== */
+    #details_part img {
+        width: 200px;
+        height: 200px;
+    }
+
+    #details_part p {
+        margin: 0px 0 100px 0;
+    }
+
+    #details_part .btnme {
+        margin-bottom: 24px;
+    }
+    #details_part .meeee{
+        margin-left: -40px;
+    }
+    /* ======================== */
+    #about {
+        padding: 0;
+    }
+
+    #about .title1 {
+        margin-top: 100px;
+    }
+
+    #about .me2 {
+        width: 200px;
+        height: 200px;
+        margin-left: -30px;
+    }
+
+    #about .low .iconss {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    #about .iconic {
+        gap: 20px;
+    }
+
+    .dui h1 {
+        margin-bottom: 30px;
+
+    }
+    /* =================== */
+    #review_part .reviewslider .slide {
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    #review_part .title p {
+        margin-bottom: 50px;
+    }
+    #review_part {
+        padding: 0 0 50px 0;
+    }
+    /* ===================== */
+    #login_part {
+        padding: 100px 0px;
+        background-color: #000000;
+    }
+}
