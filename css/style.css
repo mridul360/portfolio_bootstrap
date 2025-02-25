@@ -160,8 +160,7 @@ body{
   }
 /* ===================== */
 #details_part{
-    padding: 100px 0;
-    height: 100vh;
+    padding: 90px 0;
 }
 #details_part img{
     width: 650px;
