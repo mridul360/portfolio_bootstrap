@@ -80,4 +80,8 @@
         padding: 100px 0px;
         background-color: #000000;
     }
+
+    #login_part .poo form {
+        margin-top: 50px;
+    }
 }
