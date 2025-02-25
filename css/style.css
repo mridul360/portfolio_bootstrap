@@ -161,6 +161,7 @@ body{
 /* ===================== */
 #details_part{
     padding: 100px 0;
+    height: 100vh;
 }
 #details_part img{
     width: 650px;
