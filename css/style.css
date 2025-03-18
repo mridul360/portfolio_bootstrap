@@ -169,7 +169,7 @@ body{
     object-fit: cover;
 }
 #details_part .btnme{
-    background: #3F8E00;
+    background: #272727;
     padding: 15px 54px;
     border: 0;
     color:  white;
@@ -180,7 +180,7 @@ body{
 }
 #details_part .btnme:hover{
     color: black;
-    background-color: #272727;
+    background-color: #282828;
 }
 #details_part .text{
     color: white;
